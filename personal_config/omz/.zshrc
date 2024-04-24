@@ -134,7 +134,6 @@ alias l="ls -la"
 alias nv="nvim"
 alias v="nvim"
 alias co="codium"
-alias cdoc="cd ~/Documents/ocdt/_sem/"
 alias t="tmux"
 alias smpv='() { streamlink --player mpv $1 best ;}'
 alias mpvnvl='mpv --no-video --loop'
